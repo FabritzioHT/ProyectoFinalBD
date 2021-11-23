@@ -1,0 +1,8 @@
+C:\Users\gomez\Desktop\Proyecto Final\PFinalABD\AccedoDatos\bin\Debug\AccedoDatos.dll
+C:\Users\gomez\Desktop\Proyecto Final\PFinalABD\AccedoDatos\bin\Debug\AccedoDatos.pdb
+C:\Users\gomez\Desktop\Proyecto Final\PFinalABD\AccedoDatos\bin\Debug\MySql.Data.dll
+C:\Users\gomez\Desktop\Proyecto Final\PFinalABD\AccedoDatos\obj\Debug\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\gomez\Desktop\Proyecto Final\PFinalABD\AccedoDatos\obj\Debug\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\gomez\Desktop\Proyecto Final\PFinalABD\AccedoDatos\obj\Debug\AccesoDatos.csproj.CopyComplete
+C:\Users\gomez\Desktop\Proyecto Final\PFinalABD\AccedoDatos\obj\Debug\AccedoDatos.dll
+C:\Users\gomez\Desktop\Proyecto Final\PFinalABD\AccedoDatos\obj\Debug\AccedoDatos.pdb

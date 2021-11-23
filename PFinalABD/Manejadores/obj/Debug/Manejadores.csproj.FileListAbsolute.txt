@@ -1,0 +1,12 @@
+C:\Users\gomez\Desktop\Proyecto Final\PFinalABD\Manejadores\bin\Debug\Manejadores.dll
+C:\Users\gomez\Desktop\Proyecto Final\PFinalABD\Manejadores\bin\Debug\Manejadores.pdb
+C:\Users\gomez\Desktop\Proyecto Final\PFinalABD\Manejadores\bin\Debug\AccedoDatos.dll
+C:\Users\gomez\Desktop\Proyecto Final\PFinalABD\Manejadores\bin\Debug\Entidades.dll
+C:\Users\gomez\Desktop\Proyecto Final\PFinalABD\Manejadores\bin\Debug\MySql.Data.dll
+C:\Users\gomez\Desktop\Proyecto Final\PFinalABD\Manejadores\bin\Debug\AccedoDatos.pdb
+C:\Users\gomez\Desktop\Proyecto Final\PFinalABD\Manejadores\bin\Debug\Entidades.pdb
+C:\Users\gomez\Desktop\Proyecto Final\PFinalABD\Manejadores\obj\Debug\Manejadores.csproj.AssemblyReference.cache
+C:\Users\gomez\Desktop\Proyecto Final\PFinalABD\Manejadores\obj\Debug\Manejadores.csproj.CoreCompileInputs.cache
+C:\Users\gomez\Desktop\Proyecto Final\PFinalABD\Manejadores\obj\Debug\Manejadores.csproj.CopyComplete
+C:\Users\gomez\Desktop\Proyecto Final\PFinalABD\Manejadores\obj\Debug\Manejadores.dll
+C:\Users\gomez\Desktop\Proyecto Final\PFinalABD\Manejadores\obj\Debug\Manejadores.pdb
